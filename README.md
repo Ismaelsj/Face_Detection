@@ -1,8 +1,8 @@
 # Face Detection
 
-Face detection using OpenCV and your webcam
+Face detection using OpenCV and your webcam.
 
-Requiers:
-	- opencv
+	Requiers:
+		- opencv
 
 Usage : python3 main.py
