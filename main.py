@@ -1,6 +1,6 @@
 import cv2
 
-def face_cam():
+def face_detection():
     cap = cv2.VideoCapture(0)
     while(True):
             # Get pix array
