@@ -31,4 +31,4 @@ def face_detection():
         if cv2.waitKey(1) == 27:
             break
 
-face_cam()
+face_detection()
